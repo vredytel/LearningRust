@@ -1,9 +1,10 @@
 fn main () {
-    println!("Hello World!");
+    println!("Hello!");
+    println!("Fuck you!");
 }
 
 
-#[test]
+/*#[test]
 fn should_fail() {
     unimplemented!();
-}
+}*/
