@@ -1,3 +1,2 @@
 # LearningRust
-Learning Rust
-Test
+Hello ;)
